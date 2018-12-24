@@ -6,10 +6,9 @@
 
 - Algorithm
 - Computer Networks
-- Operating System
 - ...
 
-[GitHub](https://github.com/CyC2018/CS-Notes)
+<span id="busuanzi_container_site_pv">Site View : <span id="busuanzi_value_site_pv">
 
-<!-- ![color](#107ea485) -->
+[Get Started](README.md)
 
